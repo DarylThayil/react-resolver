@@ -11,7 +11,9 @@
     "react-dom": "^16.0.0"
   },
   "devDependencies": {
-    "babel": "5.8.34",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
     "eslint-config-future": "^2.1.1",
     "gitbook-cli": "2.3.0",
     "gitbook-plugin-prism": "^1.1.0",
